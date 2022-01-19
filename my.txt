@@ -1,4 +1,0 @@
-me[en]: it's an actual water park in the UK
-me[zh-tw]: it's an actual water park in the UK
-me[id]: ini adalah taman air yang sebenarnya di Inggris
-me[ja]: それは英国の実際のウォーターパークです
