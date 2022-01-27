@@ -6,8 +6,8 @@ import threading
 my_voice_recognizer = sr.Recognizer()
 others_recognizer = sr.Recognizer()
 
-my_microphone = sr.Microphone(device_index=2)
-others_microphone = sr.Microphone(device_index=15)
+my_microphone = sr.Microphone(device_index=4)
+others_microphone = sr.Microphone(device_index=14)
 translator = dt.GoogleTranslator()
 
 destination_langauge_translators = [dt.GoogleTranslator(target=x) for x in ('en', 'zh-tw', 'id', 'ja')]
